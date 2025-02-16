@@ -1,2 +1,2 @@
 # Recipe
-Simple omellette Recipe
+Simple omelette Recipe
