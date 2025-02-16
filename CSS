@@ -1,0 +1,113 @@
+body{
+    background-color: hsl(30, 54%, 90%);
+}
+.Container{
+    background-color:  hsl(0, 0%, 100%);
+    width: 570px;
+    height: 1270px;
+    border-radius: 30px;
+    display: flex;
+    flex-direction: column;
+    margin: 350px;
+    padding: 20px;
+    
+}
+#Img-1{
+    display: flex;
+    flex-direction: column;
+    width: 500px;
+    height: 100px;
+    margin: 0px;
+    border: 50px;
+    border-radius: 50px;
+    padding: 30px;
+}
+.Om{
+    margin: 20px;
+    margin-top: 90px;
+    margin-bottom: 30px;
+    font-family: "Young Serif", serif;
+    font-size: 400;
+}
+.Om p{
+    font-family: "Outfit";
+    font-size: 600;
+}
+.Prep h4{
+    color: hsl(332, 51%, 32%);
+    display: flex;
+    flex-direction: column;
+    padding: 10px;
+    margin: 10px;
+    
+}
+.Prep{
+    color: hsl(332, 51%, 32%);
+    background-color:  hsl(30, 54%, 90%);
+    border-radius: 20px;
+    height: 150px;
+    
+}
+#Ing h3{
+    color: hsl(14, 45%, 36%);
+    display: flex;
+    flex-direction: column;
+}
+#Ing{
+color: hsl(24, 5%, 18%);
+}
+#Ing hr{
+line-height: 20px;
+margin-right:20px;
+width: 100%;
+margin-top: 20px;
+margin-bottom: 20px;
+margin-left: 0px;
+}
+.Ins h3{
+    color:  hsl(14, 45%, 36%);
+}
+.Ins ol{
+    color: hsl(14, 45%, 36%);
+}
+.Ins li{
+    color: hsl(24, 5%, 18%);
+    
+}
+/* .Ins hr{
+    width: 300px;
+    display:flex ;
+    flex-direction: column;
+    
+} */
+#Nut {
+color:  hsl(14, 45%, 36%);
+}
+#Nut p{
+    color: hsl(24, 5%, 18%);
+}
+.Tab table{
+    width: 40%;
+    border-collapse: collapse;
+    /* Important for controlling borders */
+}
+.Tab tr{
+color:  hsl(24, 5%, 18%);
+padding: 30px;
+text-align: left;
+border-bottom: 1px solid #ddd;
+border-width: 1px;
+padding-top: 10px;
+
+
+}
+.Tab td{
+    color: hsl(14, 45%, 36%) ;
+    padding: 10px;
+text-align: left;
+border-bottom: 1px solid #ddd;
+border-width: 1px;
+padding-top: 10px;
+stroke-width: 20px;
+width: 100%;
+}
